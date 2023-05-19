@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BrightFinalTask</string>
+    <string name="my_name">Wang Liao</string>
+    <string name="email">Email: wang@liao.sh</string>
+    <string name="phone">Phone: 0433410326</string>
+    <string name="img_description">IMG</string>
+</resources>
